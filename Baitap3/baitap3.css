@@ -84,9 +84,10 @@ body {
   margin-top: 15px;
 }
 .content__bottom__right_custom-hr {
+  display: inline-block;
   margin-top: 15px;
-  width: 369px;
-  border: .5px dotted #222223;
+  width: 377px;
+  border: 1px dotted #222223;
 }
 .content__bottom__right-website {
   margin-top: 19px;
@@ -97,11 +98,13 @@ body {
   padding-right: 8px;
 }
 .content__bottom__bottom_custom-hr {
+  display: inline-block;
   width: 658px;
   margin-left: 69px;
-  border: .5px dotted #121214;
+  border: 1px dotted #121214;
 }
 .content__bottom__left__content__custom-hr {
+  display: inline-block;
   width: 191px;
   margin-left: 22px;
   border: 1px solid #7e7e7e;
@@ -112,7 +115,7 @@ body {
 .content__bottom__left__content-menulink {
   margin-left: 50px;
   margin-top: 30px;
-  line-height: 17px;
+  line-height: 25px;
   list-style-image: url("images/icon_ul.png");
 }
 .content__bottom__left__content__custom-hr--color {
