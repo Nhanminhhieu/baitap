@@ -115,7 +115,7 @@ body {
 .content__bottom__left__content-menulink {
   margin-left: 50px;
   margin-top: 30px;
-  line-height: 25px;
+  line-height: 1.5;
   list-style-image: url("images/icon_ul.png");
 }
 .content__bottom__left__content__custom-hr--color {

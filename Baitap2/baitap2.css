@@ -3,75 +3,129 @@
   padding: 0;
 }
 body {
-  width: 1031px;
-  height: 585px;
+  border: 1px solid #000000;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid #000000;
-  font-family: "Times New Roman";
-  font-size: 12px;
-}
-.container {
   width: 1031px;
   height: 585px;
-}
-.toppic-left__title {
+  font-family: "Times New Roman";
+  font-size: 12px;
   color: #595959;
-  background: #767884;
-  padding-left: 185px;
-  padding-top: 38px;
-  padding-bottom: 38px;
 }
-.toppic-left__img {
-  float: left;
-  margin-left: 187px;
-  margin-top: 0px;
-  width: 126px;
-  height: 90px;
-}
-.toppic-left__content {
-  float: right;
-}
-.toppic-left__title__content {
-  color: #ffffff;
-}
-.toppic-left__content1 {
-  clear: both;
+.container {
+  background: #000000;
+  width: 1031px;
+  height: 585px;
 }
 .toppic-left {
   float: left;
-  width: 618px;
-  height: 358px;;
-  background-color: #ffd77f;
+  margin-left: 184px;
+  width: 430px;
+  height: 585px;
+}
+.toppic-left__title {
+  padding-top: 35px;
+  padding-bottom: 35px;
+  color: #595959;
+}
+.toppic-left__img {
+  padding-left: 4px;
 }
 .toppic-left__content1 {
-  padding-left: 186px;
+  float: right;
+  width: 295px;
+}
+.toppic-left__title__content1 {
+  padding-left: 20px;
+  color: #ffffff;
+}
+.toppic-left__content1-detail {
+  padding-left: 20px;
+  padding-top: 4px;
+  line-height: 13px;
 }
 .toppic-left__content2 {
-  padding-left: 203px;
+  clear: both;
+}
+.toppic-left__content3 {
+  padding-left: 18px;
 }
 .toppic-left__hr {
-  margin-left: 203px;
-  border-top: 1px dotted white;
+  margin-left: 18px;
+  margin-top: 15px;
+  border: .5px dotted #595959;
 }
+.toppic-left__imgmoreinfo {
+  padding-left: 18px;
+  padding-top: 10px;
+}
+.toppic-left__moreinfo {
+  display: inline;
+  color: #ffffff;
+}
+.toppic-left__content4 {
+  padding-left: 18px;
+  padding-top: 70px;
+}
+.toppic-left__content4:first-line {
+  color: #ffffff;
+}
+.toppic-left__content5 {
+  width: auto;
+  height: 170px;
+}
+.toppic-left__content5__listleft {
+  float: left;
+  padding-top: 12px;
+  margin-left: 31px;
+  list-style-image: url("images/muiten.png");
+  text-decoration: underline;
+  line-height: 17px;
+}
+.toppic-left__content5__listright {
+  float: right;
+  padding-top: 12px;
+  width: 205px;
+  list-style-image: url("images/muiten.png");
+  padding-bottom: 22px;
+  line-height: 17px;
+  text-decoration: underline;
+}
+.toppic-left__hr1 {
+  clear: both;
+  border: .5px dotted #595959;
+}
+.toppic-left__imgmoreinfo1 {
+  padding-left: 18px;
+  padding-top: 10px;
+}
+.toppic-left__moreinfo1 {
+  display: inline;
+  color: #ffffff;
+}
+/*ben phai*/
 .toppic-right {
   float: right;
-  width: 237px;
-  height: 385px;
-  margin-top: 22px;
-  margin-right: 157px;
-  border: 5px solid #101012;
-  background-color: #232227;
+  margin-top: 20px;
+  margin-right: 168px;
+  width: 241px;
+  height: 397px;
+  border: 4px solid #000000;
+  background: #232227;
 }
 .toppic-right_logo {
   display: block;
-  margin-top: 83px;
+  margin-top: 25px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 25px;
 }
 .toppic-right__content {
   text-align: left;
   padding-left: 33px;
+}
+.toppic-right__content-margin {
+  padding-top: 10px;
 }
 .toppic-right__content--color-white {
   color: #fefdff;
@@ -80,20 +134,33 @@ body {
   color: #595959;
 }
 .toppic-right__content--color-gray1 {
-  display: inline-block;
-  color: #767884;
-}
-.toppic-right__imgmoreinfo {
-  padding-left: 32px;
-  padding-top: 50px;
-}
-.toppic-right__moreinfo {
   display: inline;
-  padding-bottom: 40px;
+  color: #767884;
+  padding: 0;
+  margin: 0;
 }
-.test {
-  clear: both;
-  background: aqua;
-  width: 1031px;
-  height: 176px;
+.toppic-right__content--color-gray2 {
+  color: #767884;
+  padding: 0;
+  margin: 0;
+  padding-left: 33px;
+}
+.toppic-right__content--inline {
+  display: inline;
+}
+.toppic-right__imgmoreinfo1 {
+  padding-left: 32px;
+  padding-top: 40px;
+}
+.toppic-right__moreinfo1 {
+  display: inline-block;
+  padding-bottom: 36px;
+  color: #ffffff;
+}
+.toppic-right__hr {
+  width: 191px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  border: 1px solid #353439;
 }
