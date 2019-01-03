@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef3101a7-e5f3-4fc0-8454-760e7704b031" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/baitap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Baitap3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baitap5.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap5.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1_09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1_16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1_21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1_23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1_25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_1.1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_2.1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_3.1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_4.1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_footer.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/png_head.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/baitap5.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
-              <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+            <state relative-caret-position="-123">
+              <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -49,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/baitap5.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -68,8 +47,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -79,6 +58,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,7 +70,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,18 +102,19 @@
       <updated>1546402876109</updated>
       <workItem from="1546402877523" duration="1728000" />
       <workItem from="1546404985370" duration="18076000" />
-      <workItem from="1546439332282" duration="2248000" />
+      <workItem from="1546439332282" duration="3097000" />
+      <workItem from="1546481621675" duration="694000" />
+      <workItem from="1546482411044" duration="876000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22052000" />
+    <option name="totallyTimeSpent" value="24471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06076759" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12910284" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -164,15 +144,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="79" column="42" selection-start-line="79" selection-start-column="42" selection-end-line="79" selection-end-column="42" />
+        <state relative-caret-position="-123">
+          <caret line="32" column="56" lean-forward="true" selection-start-line="32" selection-start-column="56" selection-end-line="32" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/baitap5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>

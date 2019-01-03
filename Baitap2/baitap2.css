@@ -42,7 +42,7 @@ body {
 .toppic-left__content1-detail {
   padding-left: 20px;
   padding-top: 4px;
-  line-height: 13px;
+  line-height: 1;
 }
 .toppic-left__content2 {
   clear: both;
@@ -78,7 +78,7 @@ body {
   float: left;
   padding-top: 12px;
   margin-left: 31px;
-  list-style-image: url("images/muiten.png");
+  list-style-image: url("images/png_muiten.png");
   text-decoration: underline;
   line-height: 17px;
 }
@@ -86,7 +86,7 @@ body {
   float: right;
   padding-top: 12px;
   width: 205px;
-  list-style-image: url("images/muiten.png");
+  list-style-image: url("images/png_muiten.png");
   padding-bottom: 22px;
   line-height: 17px;
   text-decoration: underline;

@@ -12,7 +12,7 @@
   background-image: url("images/pic_back.jpg");
 }
 .custom__hr {
-  border: 10px solid #b98030;
+  border: 2.5px solid #b98030;
 }
 .list__menu {
   position: relative;
@@ -66,7 +66,7 @@ li:nth-child(2n) .button {
   color: #ffffff;
 }
 .footer__left__link:before {
-  content: url("images/icn_list.png");
+  content: url("images/icn_list.jpg");
   padding-right: 8px;
 }
 .footer__left {
@@ -74,7 +74,9 @@ li:nth-child(2n) .button {
 }
 .footer__right {
   float: right;
-  font-size: 10.5px;
-  margin-right: 40px;
+  font-size: 10px;
+  font-family: Century;
+  margin-right: 26px;
+  letter-spacing: 1px;
   color: #ffffff;
 }
