@@ -7,7 +7,6 @@
   margin-left: auto;
   margin-right: auto;
   width:  1024px;
-  height: 5920px;
   overflow: hidden;
   background-image: url("images/pic_back.jpg");
 }
@@ -52,7 +51,7 @@ li:nth-child(2n) .button {
 .footer {
   clear: both;
   padding-top: 16px;
-  height: 38px;
+  padding-bottom: 38px;
   background: #8b1a20;
 }
 .footer ul li{
