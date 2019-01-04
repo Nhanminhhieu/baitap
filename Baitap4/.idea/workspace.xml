@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c09da99-b1eb-4ad9-9c0d-e96ffafe4a57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap1/baitap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap1/baitap1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap2/baitap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap2/baitap2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/baitap4.html" afterDir="false" />
-    </list>
+    <list default="true" id="9c09da99-b1eb-4ad9-9c0d-e96ffafe4a57" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +68,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Baitap3" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -103,16 +95,15 @@
       <option name="presentableId" value="Default" />
       <updated>1546399803497</updated>
       <workItem from="1546399804606" duration="260000" />
-      <workItem from="1546588938488" duration="3123000" />
+      <workItem from="1546588938488" duration="3263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3383000" />
+    <option name="totallyTimeSpent" value="3523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12800875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

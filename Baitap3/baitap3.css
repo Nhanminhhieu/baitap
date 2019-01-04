@@ -4,10 +4,11 @@
 }
 body {
   font-family: "Times New Roman";
+  background: #000000;;
 }
 .container {
   width: 1263px;
-  height: 1105px;
+
   border: 1px solid #000000;
   margin-left: auto;
   margin-right: auto;
@@ -20,7 +21,6 @@ body {
 }
 .content__bottom {
   width: 1263px;
-  height: 851px;
   color: #595959;
 }
 .content__bottom-table-menu {
@@ -38,12 +38,10 @@ body {
 .content__bottom__left {
   float: left;
   width: 310px;
-  height: 753px;
 }
 .content__bottom__right {
   float: right;
   width: 953px;
-  height: 753px;
   font-size: 11px;
   padding-left: 36px;
   box-sizing: border-box;
@@ -52,45 +50,44 @@ body {
   clear: both;
   width: 1263px;
   height: 98px;
-  padding-top: 10px;
+  padding-top: 47px;
   box-sizing: border-box;
 }
 .content__bottom__left__content {
   width: 236px;
-  height: 360px;
   margin-top: 114px;
   margin-left: 74px;
-  padding-top: 41px;
+  padding-top: 32px;
   font-size: 13px;
   background: #1f1f1f;
 }
 .content__bottom__right-imgdesign {
-  margin-top: 148px;
+  margin-top: 155px;
   display: block;
 }
 .content__bottom__right-img {
-  margin-top:  20px;
+  margin-top:  22px;
   width: 114px;
   height: 19px;
 }
 .content__bottom__right-imgwave {
   display: block;
-  margin-top: 42px;
+  margin-top: 39px;
 }
 .content__bottom__right_custom {
   width: 369px;
 }
 .content__bottom__right-detail {
-  margin-top: 15px;
+  margin-top: 12px;
 }
 .content__bottom__right_custom-hr {
   display: inline-block;
-  margin-top: 15px;
+  margin-top: 12px;
   width: 377px;
   border: 1px dotted #222223;
 }
 .content__bottom__right-website {
-  margin-top: 19px;
+  margin-top: 14px;
   color: #ffffff;
 }
 .content__bottom__right-website::before {
@@ -110,12 +107,13 @@ body {
   border: 1px solid #7e7e7e;
 }
 .content__bottom__left__content-detail {
-  margin: 30px 0 68px 32px;
+  margin: 25px 0 58px 32px;
 }
 .content__bottom__left__content-menulink {
   margin-left: 50px;
-  margin-top: 30px;
-  line-height: 1.5;
+  margin-top: 15px;
+  line-height: 1.8;
+  padding-bottom: 33px;
   list-style-image: url("images/icon_ul.png");
 }
 .content__bottom__left__content__custom-hr--color {
@@ -129,6 +127,7 @@ body {
   margin-top: 24px;
   font-size: 10px;
   color: #595959;
+  padding-bottom: 65px;
 }
 .content__bottom__bottom-detail--colorlink {
   color: #595959;
