@@ -11,9 +11,9 @@ $(document).ready(function () {
             animm("#leaves" + i);
         }
     function animm(myImage){
-        TweenMax.set($(myImage),{attr:{class:'leaves'},x:R(0,1500),y:R(-200,-150),z:R(-200,200)});
+        TweenMax.set($(myImage),{attr:{class:'leaves'},x:R(-1500,1500),y:R(-200,-150),z:R(-200,200)});
         TweenMax.to($(myImage),R(6,15),{y:1000+100,ease:Linear.easeNone,repeat:-1,delay:-15});
-        TweenMax.to($(myImage),R(4,8),{x:'+=100',rotationZ:R(0,180),repeat:-1,yoyo:true,ease:Sine.easeInOut});
+        TweenMax.to($(myImage),R(4,8),{x:'+=50',rotationZ:R(0,180),repeat:-1,yoyo:true,ease:Sine.easeInOut});
         TweenMax.to($(myImage),R(2,8),{rotationX:R(0,360),rotationY:R(0,360),repeat:-1,yoyo:true,ease:Sine.easeInOut,delay:-1});
     };
 });
