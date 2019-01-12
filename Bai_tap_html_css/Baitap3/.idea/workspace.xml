@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c09da99-b1eb-4ad9-9c0d-e96ffafe4a57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/baitap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/baitap4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Baitap5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Baitap5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d7f6933d-65f5-4060-ad9f-583c035b4583" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,25 +10,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baitap4.css">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baitap3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="149" column="18" lean-forward="true" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+            <state relative-caret-position="642">
+              <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baitap4.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baitap3.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+            <state relative-caret-position="-357">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hr</find>
+      <find>content__bottom__left__content-menulink</find>
+      <find>custom-hr</find>
+      <find>content__bottom__bottom_custom-hr</find>
+      <find>content__bottom__left__content__custom-hr</find>
+      <find>content__bottom__right_custom-hr</find>
+      <find>line-h</find>
+      <find>height</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -39,13 +48,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/baitap4.html" />
-        <option value="$PROJECT_DIR$/baitap4.css" />
+        <option value="$PROJECT_DIR$/baitap3.html" />
+        <option value="$PROJECT_DIR$/baitap3.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -60,8 +69,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Baitap4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Baitap4" type="462c0819:PsiDirectoryNode" />
+              <item name="Baitap3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Baitap3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -71,9 +80,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Bai_tap_html_css/Baitap4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GMO/New folder/Bai_tap_Javascript/Baitap1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,25 +102,26 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c09da99-b1eb-4ad9-9c0d-e96ffafe4a57" name="Default Changelist" comment="" />
-      <created>1546399803497</created>
+      <changelist id="d7f6933d-65f5-4060-ad9f-583c035b4583" name="Default Changelist" comment="" />
+      <created>1546395921999</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546399803497</updated>
-      <workItem from="1546399804606" duration="260000" />
-      <workItem from="1546588938488" duration="3263000" />
-      <workItem from="1547172680558" duration="99000" />
+      <updated>1546395921999</updated>
+      <workItem from="1546395923139" duration="3508000" />
+      <workItem from="1546400691643" duration="409000" />
+      <workItem from="1546402818407" duration="63000" />
+      <workItem from="1546592205727" duration="1899000" />
+      <workItem from="1546705473630" duration="623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3622000" />
+    <option name="totallyTimeSpent" value="6502000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13019694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26586434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -135,17 +146,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/baitap4.css">
+    <entry file="file://$PROJECT_DIR$/baitap3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="149" column="18" lean-forward="true" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+        <state relative-caret-position="642">
+          <caret line="69" column="34" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baitap4.html">
+    <entry file="file://$PROJECT_DIR$/baitap3.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        <state relative-caret-position="-357">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
         </state>
       </provider>
     </entry>
